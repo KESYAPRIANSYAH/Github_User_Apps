@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="profil_name">Profil</string>
+    <string name="profil">profil</string>
+    <string name="userFavorit">Favorit User</string>
+    <string name="settings">settings</string>
+    <string name="username">username</string>
+    <string name="name">name</string>
+    <string name="not_found">not_found</string>
+    <string name="search_user">search_user</string>
+    <string name="searchbar_hint">ketik disini</string>
+    <string name="block">Block</string>
+    <string name="report">Report</string>
+    <string name="followwing">followwing</string>
+    <string name="nama">Nama</string>
+    <string name="userName">userName</string>
+    <string name="jmlh_follow">0</string>
+    <string name="jmlh_following">0</string>
+    <string name="following">following</string>
+    <string name="follower">follower</string>
+    <string name="dark_mode">Dark Mode</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="github_splash">github_splash</string>
+</resources>

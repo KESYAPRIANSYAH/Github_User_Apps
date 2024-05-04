@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white" id ="colorWhite">#FFFFFFFF</color>
+    <color name="header">#121D2F</color>
+    <color name="Action">#4F378A</color>
+    <color name="lightMenuItemIconColor">@color/black</color>
+    <color name="darkMenuItemIconColor">@color/white</color>
+</resources>
