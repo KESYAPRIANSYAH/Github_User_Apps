@@ -13,7 +13,7 @@ class Config {
             val authInterceptor = Interceptor { chain ->
                 val req = chain.request()
                 val requestHeaders = req.newBuilder()
-                    .addHeader("Authorization", "token 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")
+                    .addHeader("Authorization", "")
                     .build()
                 chain.proceed(requestHeaders)
 
